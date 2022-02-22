@@ -1,0 +1,33 @@
+{
+  "developer": [
+    {
+      "id": 1,
+      "name": "mahin",
+      "email": "mahinhasan579@gmail.com",
+      "photo": "https://i.ibb.co/5BNPM5x/second-bg.jpg",
+      "skillid": "2"
+    }
+  ],
+  "skill": [
+    {
+      "id": 1,
+      "skill": "Laravel Developer"
+    },
+    {
+      "id": 2,
+      "skill": "Php Developer"
+    },
+    {
+      "id": 2,
+      "skill": "django  Developer"
+    },
+    {
+      "id": 2,
+      "skill": "Java Developer"
+    },
+    {
+      "id": 2,
+      "skill": "Wordpress Developer"
+    }
+  ]
+}
